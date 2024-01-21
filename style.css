@@ -1,0 +1,75 @@
+h3:nth-child(1) {
+  color: pink;
+}
+.yellow {
+  color: yellow;
+}
+#greycol {
+  color: grey;
+}
+p:only-child {
+  color: red;
+}
+p:nth-child(7) {
+  color: green;
+}
+.Element-3 {
+  display: flex;
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+.El4 {
+  margin-left: 25px;
+  text-align: center;
+}
+.red {
+  color: red;
+}
+.red:hover{
+ background-color:black;
+}
+.orange {
+  color: orange;
+}
+.orange:hover{
+  background-color:black; 
+}
+.yellow {
+  color: yellow;
+}
+.yellow:hover{
+  background-color:black;
+}
+.green {
+  color: green;
+}
+.green:hover{
+  background-color:black;
+}
+.blue {
+  color: blue;
+}
+.blue:hover{
+  background-color: black;
+}
+.lightblue{
+  color:aqua;
+}
+.lightblue:hover{
+  background-color: black; 
+}
+.purple{
+  color:lightcoral;
+}
+.purple:hover{
+  background-color: black;   
+}
+.pink{
+  color:purple;
+}
+.pink:hover{
+  background-color: black;  
+}
+
